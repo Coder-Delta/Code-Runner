@@ -1,0 +1,16 @@
+# Code Runner Configuration
+
+# Execution timeout in seconds
+timeout = 30
+
+# Maximum file size in MB
+max_file_size_mb = 100
+
+# Automatically cleanup compiled artifacts
+cleanup_artifacts = true
+
+# Silent mode (no output except results)
+silent_mode = false
+
+# Check if programs are installed before running
+check_installed = true
